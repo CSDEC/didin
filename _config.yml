@@ -1,1 +1,4 @@
-
+title: Anper Dashboard
+#logo: /assets/img/headshot_circle.png
+#show_download: True
+theme: jekyll-theme-minimal
